@@ -1,2 +1,2 @@
-documento de prueba para el repo en github
+documento de prueba para ser cargado en el repo de github
 
